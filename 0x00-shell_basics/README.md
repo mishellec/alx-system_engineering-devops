@@ -1,1 +1,1 @@
-scripting
+scriptiing
